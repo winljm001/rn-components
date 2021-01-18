@@ -1,0 +1,22 @@
+{
+  "name": "hj-components-rn-example",
+  "displayName": "HjComponentsRn Example",
+  "expo": {
+    "name": "hj-components-rn-example",
+    "slug": "hj-components-rn-example",
+    "description": "Example app for hj-components-rn",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
