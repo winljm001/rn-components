@@ -11,7 +11,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { Checkbox } from 'hj-components-rn';
+import { Checkbox } from 'lalala-components-rn';
 
 export default () => <Checkbox label="全选" />;
 ```

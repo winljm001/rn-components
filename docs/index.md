@@ -1,7 +1,7 @@
 ---
-title: hj-components-rn - 基于 dumi 和 TypeScript 实现的移动端组件库
+title: lalala-components-rn - 基于 dumi 和 TypeScript 实现的移动端组件库
 hero:
-  title: hj-components-rn
+  title: lalala-components-rn
   desc: 移动端组件库
   actions:
     - text: 开始使用

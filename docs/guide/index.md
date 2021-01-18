@@ -14,5 +14,5 @@ nav:
 ## 使用方法
 
 ```bash
-yarn add hj-components-rn
+yarn add lalala-components-rn
 ```

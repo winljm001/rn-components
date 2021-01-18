@@ -11,7 +11,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { BaseStepper } from 'hj-components-rn';
+import { BaseStepper } from 'lalala-components-rn';
 
 export default () => <BaseStepper />;
 ```
